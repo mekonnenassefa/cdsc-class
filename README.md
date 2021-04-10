@@ -12,3 +12,4 @@ CDSC 605 | Probability and Statistics for Data Science
 
 #### Assignment and Projects
 [CDSC 601 - Fortran Presentation](https://github.com/mekonnenassefa/cdsc-class/tree/main/601)
+[CDSC 603 - Assignment I](https://github.com/mekonnenassefa/cdsc-class/tree/main/603)
